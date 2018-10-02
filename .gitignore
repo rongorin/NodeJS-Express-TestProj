@@ -5,8 +5,8 @@
 
 # Node files
 [Nn]ode_modules/
-package.*
-package-lock.*
+## package.*
+## package-lock.*
 
 # User-specific files
 *.suo
